@@ -22,7 +22,7 @@ M=D
 
 //if RAM[KBD] == 97, goto set_black
 @97
-D=M
+D=A
 @KBD
 D=M-D
 @set_black

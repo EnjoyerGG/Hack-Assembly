@@ -51,6 +51,7 @@ D;JGE
 @color
 D=M
 @i
+A=M
 M=D
 //i++
 @i
